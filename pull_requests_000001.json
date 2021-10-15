@@ -2177,7 +2177,7 @@
     "url": "https://github.com/guzzlehumdrum/GuzzleHumdrum/pull/19",
     "user": "https://github.com/guzzlehumdrum",
     "repository": "https://github.com/guzzlehumdrum/GuzzleHumdrum",
-    "title": "Create Nobility agnostic Apocalypse.html",
+    "title": "Create Novelty agnostic Apocalypse.html",
     "body": "",
     "base": {
       "ref": "main",
@@ -2186,7 +2186,7 @@
       "repo": "https://github.com/guzzlehumdrum/GuzzleHumdrum"
     },
     "head": {
-      "ref": "Nobility-agnostic-Apocalypse",
+      "ref": "Novelty-agnostic-Apocalypse",
       "sha": "d4e4112385949e5c70aeb8aba8dba54e3fad999b",
       "user": "https://github.com/guzzlehumdrum",
       "repo": "https://github.com/guzzlehumdrum/GuzzleHumdrum"
