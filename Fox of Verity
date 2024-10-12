@@ -25,9 +25,11 @@
 42(0)-44(2)@Hoenn#CoE
 ->[44(3)-44(11)@Zed,Daisy,Ash]
 45(3)-47(5)@Sinnoh
-48(0)-50(2)@Lental
-50(9)-52(11)@Kitakami#HoF
-53(6)-55(8)@Alola(BoD)
+->47(6)-48(2)
+48(9)-50(11)@Lental
+->51(0)-51(8)
+52(3)-54(5)@Kitakami#HoF
+55(0)-57(2)@Alola->57(3)#Pokemon Master{BoD}
 
 27(9)-30(11)#Doctor[General Medicine]
 34(3)-36(5)#Doctor[Neurology]
